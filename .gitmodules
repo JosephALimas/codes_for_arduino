@@ -1,0 +1,3 @@
+[submodule "LoRaRYLR406"]
+	path = LoRaRYLR406
+	url = https://github.com/ahmadlogs/LoRaRYLR406.git
